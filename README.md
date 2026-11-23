@@ -1,0 +1,2 @@
+# Explainable-CNN-Based-Framework-for-Tomato-Leaf-Disease-Classification
+Developed a ResNet50-based deep learning model to classify tomato leaf diseases using the PlantVillage dataset. Used image preprocessing and data augmentation, and integrated Grad-CAM to visualize important leaf regions influencing predictions. Evaluated performance using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
